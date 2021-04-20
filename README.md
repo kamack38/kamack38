@@ -21,11 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamack38&theme=blueberry&layout=compact)
 
 ![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamack38&repo=csgo-config&theme=blueberry)
-<html>
-    <head>
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=607f1e3fcbf5d200187ea207&product=inline-follow-buttons" async="async"></script>
-    </head>
-    <body>
-        <div class="sharethis-inline-follow-buttons"></div>
-    </body>
-</html>
