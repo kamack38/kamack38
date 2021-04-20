@@ -18,6 +18,6 @@
 
 ![kamack38's github stats](https://github-readme-stats.vercel.app/api?username=kamack38&theme=blueberry&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamack38&theme=blueberry&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamack38&theme=blueberry&layout=compact)](https://github.com/kamack38?tab=repositories)
 
-![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamack38&repo=csgo-config&theme=blueberry)
+[![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamack38&repo=csgo-config&theme=blueberry)](https://github.com/kamack38/csgo-config)
