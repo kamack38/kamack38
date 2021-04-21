@@ -1,7 +1,11 @@
+## Info :
+
 ### Hi! I'm Kamack38. I'm a Young Frontend Web Developer and also I like playing games.
 ### You can check my site [here](https://kamack38.github.io/)
 
 <br />
+
+---
 
 <p align="center">
     <a title="GitHUB Followers" href="https://github.com/kamack38" target="_blank">
@@ -19,6 +23,12 @@
     
 </p>
 
+---
+
+<br />
+
+## Stats : 
+
 <br />
 
 ![kamack38's github stats](https://github-readme-stats.vercel.app///api?username=kamack38&theme=blueberry&show_icons=true)
@@ -29,7 +39,9 @@
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app//api/wakatime?username=Kamack38&theme=blueberry)
 
-### Languages and Tools:
+---
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
