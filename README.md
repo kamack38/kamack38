@@ -1,5 +1,8 @@
 ### Hi! I'm Kamack38. I'm a Young Frontend Web Developer and also I like playing games.
 ### You can check my site [here](https://kamack38.github.io/)
+
+<br />
+
 <p align="center">
     <a title="GitHUB Followers" href="https://github.com/kamack38" target="_blank">
         <img src="https://img.shields.io/github/followers/kamack38?label=Github%20followers&style=for-the-badge" alt="Github Followers" />
@@ -16,8 +19,6 @@
     
 </p>
 
-
-<br />
 <br />
 
 ![kamack38's github stats](https://github-readme-stats.vercel.app///api?username=kamack38&theme=blueberry&show_icons=true)
