@@ -37,7 +37,7 @@
 
 [![Best Repo](https://github-readme-stats.vercel.app///api/pin/?username=kamack38&repo=csgo-config&theme=blueberry)](https://github.com/kamack38/csgo-config)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app//api/wakatime?username=Kamack38&theme=blueberry)
+[![Wakatime Stats](https://github-readme-stats.vercel.app//api/wakatime?username=Kamack38&theme=blueberry)](https://wakatime.com/@Kamack38)
 
 ---
 
