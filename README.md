@@ -1,4 +1,4 @@
-## Info :
+# Info :
 
 ### Hi! I'm Kamack38. I'm a Young Frontend Web Developer and also I like playing games.
 ### You can check my site [here](https://kamack38.github.io/)
@@ -38,6 +38,10 @@
 [![Best Repo](https://github-readme-stats.vercel.app///api/pin/?username=kamack38&repo=csgo-config&theme=blueberry)](https://github.com/kamack38/csgo-config)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app//api/wakatime?username=Kamack38&theme=blueberry)](https://wakatime.com/@Kamack38)
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I34LJKG)
 
 ---
 
