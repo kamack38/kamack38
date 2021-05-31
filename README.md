@@ -1,7 +1,6 @@
 # Info
 
 ### Hi! I'm Kamack38. I'm a Young Frontend Web Developer and also I like playing games
-
 ### You can check my site [here](https://kamack38.github.io/)
 
 <br />
