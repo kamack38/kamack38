@@ -1,7 +1,8 @@
-# Info :
+# Info
 
-### Hi! I'm Kamack38. I'm a Young Frontend Web Developer and also I like playing games.
-### You can check my site [here](https://kamack38.github.io/)
+## Hi! I'm Kamack38. I'm a Young Frontend Web Developer and also I like playing games
+
+## You can check my site [here](https://kamack38.github.io/)
 
 <br />
 
@@ -20,14 +21,14 @@
     <a title="Discord" href="https://discord.gg/sd62gjV" target="_blank">
         <img src="https://img.shields.io/discord/433614342777208843?label=Discord&style=for-the-badge" alt="Online Discord">
     </a>
-    
+
 </p>
 
 ---
 
 <br />
 
-## Stats: 
+## Stats
 
 <br />
 
@@ -45,7 +46,7 @@
 
 ---
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
