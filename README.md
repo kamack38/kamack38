@@ -57,7 +57,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Twitter](https://img.shields.io/badge/kamack38-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kamack38)
+[![Twitter](https://img.shields.io/badge/%40kamack38-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kamack38)
 [![Discord](https://img.shields.io/badge/iPlayPoland-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sd62gjV)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15736656/kamack38)
 
