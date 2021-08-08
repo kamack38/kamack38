@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app///api/top-langs/?username=kamack38&theme=blueberry&layout=compact)](https://github.com/kamack38?tab=repositories)
 
-[![Best Repo](https://github-readme-stats.vercel.app///api/pin/?username=kamack38&repo=csgo-config&theme=blueberry)](https://github.com/kamack38/csgo-config)
+[![Best Repo](https://github-readme-stats.vercel.app///api/pin/?username=kamack38&repo=dotfiles&theme=blueberry)](https://github.com/kamack38/csgo-config)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app//api/wakatime?username=Kamack38&theme=blueberry)](https://wakatime.com/@Kamack38)
 
