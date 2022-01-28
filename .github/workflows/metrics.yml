@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 18 * * 0"}]
+  schedule: [{ cron: '0 18 * * 0' }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: ['master', 'main'] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -39,14 +39,15 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_languages_indepth: yes
           plugin_gists: yes
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}     
-          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7 # Display last week stats
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors-graphs # Display time and projects sections, along with projects graphs
-          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint    
+          plugin_wakatime_limit: 4 # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com # Wakatime url endpoint
           plugin_wakatime_user: Kamack38
