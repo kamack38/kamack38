@@ -23,6 +23,7 @@ jobs:
           # config_display: large
           # config_padding: 0%
           config_timezone: Europe/Warsaw
+          config_display: large
           # plugin_achievements: yes
           # plugin_achievements_display: compact
           # plugin_achievements_secrets: yes

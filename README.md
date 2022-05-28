@@ -30,4 +30,8 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Asus Laptop](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
 
+<div align="center">
+
 ![Metrics](github-metrics.svg)
+
+</div>
