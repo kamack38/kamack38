@@ -3,7 +3,6 @@
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamack38&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282C3400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamack38&layout=compact)
 
 </div>
 
