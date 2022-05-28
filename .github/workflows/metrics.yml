@@ -18,10 +18,11 @@ jobs:
           # Options
           user: kamack38
           template: classic
+          base: ''
           # base: header, activity, community, repositories, metadata
           # config_display: large
           # config_padding: 0%
-          # config_timezone: Europe/Warsaw
+          config_timezone: Europe/Warsaw
           # plugin_achievements: yes
           # plugin_achievements_display: compact
           # plugin_achievements_secrets: yes
